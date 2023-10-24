@@ -10,6 +10,6 @@ Python数据处理编程-航空公司客户价值分析
 （3）比较不同类别客户的客户价值，制定相应的营销策略。
 
 ## 文件格式
-analyse.py —— 主程序文件(运行即可)
-analyse2.ipynb —— 用来观测具体数值变化
-air_data.csv —— 原数据文件
+- analyse.py —— 主程序文件(运行即可)
+- analyse2.ipynb —— 用来观测具体数值变化
+- air_data.csv —— 原数据文件
